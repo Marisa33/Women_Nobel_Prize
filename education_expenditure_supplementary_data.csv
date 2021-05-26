@@ -1,4 +1,4 @@
-country,institute_type,direct_expenditure_type,1995,2000,2005,2009,2010,Expenditure
+Birth_Country,institute_type,direct_expenditure_type,1995,2000,2005,2009,2010,Expenditure
 Australia,All Institutions ,Public,4.5,4.6,4.3,4.5,4.6,4.3
 Austria,All Institutions ,Public,5.3,5.4,5.2,5.7,5.6,5.5
 Belgium,All Institutions ,Public,5.0,5.1,5.8,6.4,6.4,6.4
